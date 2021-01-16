@@ -1,0 +1,79 @@
+.profileInfoCont {
+  margin-top: 0rem;
+  text-align: center;
+}
+
+.profileName {
+  color: var(--white-text);
+  font-weight: 600;
+  font-size: 20px;
+}
+
+.profileAt {
+  color: var(--grey-text);
+  font-size: 12px;
+}
+
+.infoCont {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 0.8rem;
+}
+
+.info {
+  margin: 0 0.8rem;
+}
+
+.verticalDivider {
+  border-right: 1px solid var(--grey-text);
+  padding-right: 1rem;
+}
+
+.infoValue {
+  font-size: 18px;
+  color: var(--white-text);
+  font-weight: 600;
+}
+
+.infoLabel {
+  font-size: 12px;
+  color: var(--grey-text);
+}
+
+.sideListCont {
+  text-align: left;
+  margin-top: 2rem;
+  overflow: auto;
+  height: 230px;
+  padding: 0 1rem;
+}
+
+.sideListLabel {
+  margin: 0.8rem 0.5rem;
+  color: var(--white-text);
+  font-size: 15px;
+}
+
+.labelList {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+.labelList:hover {
+  background: var(--light-black-background);
+  padding: 0 0.2rem;
+}
+
+.logoutCont {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  padding: 0 1rem;
+  border-top: 1px solid var(--grey-text);
+}
+
+.logoutCont:hover {
+  background: var(--light-black-background);
+}

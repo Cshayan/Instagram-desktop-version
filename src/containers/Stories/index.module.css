@@ -1,0 +1,31 @@
+.storiesCont {
+  margin-top: 1rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.storiesHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: var(--white-text);
+}
+
+.watchAllCont {
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  font-size: 14px;
+}
+
+.storiesImageCont {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 60rem;
+  overflow-x: auto;
+  white-space: nowrap;
+  scrollbar-width: 0;
+  margin-top: 1rem;
+  padding-bottom: 0.8rem;
+}

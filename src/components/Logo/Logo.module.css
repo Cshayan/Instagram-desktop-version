@@ -1,0 +1,17 @@
+.logoContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.instaTextImg {
+  width: 35%;
+  height: 100%;
+  align-self: flex-end;
+  margin: 0.5rem;
+}
+
+.instaLogo {
+  width: 18%;
+  height: 100%;
+}

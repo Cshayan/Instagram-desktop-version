@@ -1,0 +1,15 @@
+.headerContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.input {
+  background: #596275;
+  border: none;
+  outline: none;
+  padding: 0.6rem 1rem;
+  border-radius: 5px;
+  color: var(--white-text);
+  width: 30%;
+}

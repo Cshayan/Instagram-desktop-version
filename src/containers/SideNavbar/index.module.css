@@ -1,0 +1,9 @@
+.navbarContainer {
+  background: var(--dark-black-background);
+  padding: 0.4rem;
+  display: flex;
+  flex-direction: column;
+  /* justify-content: space-between; */
+  align-items: center;
+  height: 100vh;
+}
