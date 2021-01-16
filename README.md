@@ -5,7 +5,7 @@ A static version of Instagram dashboard only for desktop mode made using React.
 # Screenshot
 
 <br/>
-<a href="https://raw.githubusercontent.com/Cshayan/Helpful-Online-Links/master/Screenshot%20(43).png" alt="Project Screenshot">
+<img src="https://raw.githubusercontent.com/Cshayan/Helpful-Online-Links/master/Screenshot%20(43).png" alt="Project Screenshot">
 
 # How to run the project?
 
